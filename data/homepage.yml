@@ -61,7 +61,7 @@ about:
     </p>'
   button:
     icon: "icon-smile-fill"
-    btnText: "About Me"
+    btnText: "About Us"
     URL: "/"
   image:
     x: "img/who-am-i/user-picture.png"
