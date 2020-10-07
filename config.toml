@@ -1,5 +1,5 @@
-baseURL = "https://raditian-hugo.radity.com/"
-languageCode = "en-us"
+baseURL = "https://zhoucaiqi.com/"
+languageCode = "zh-cn"
 theme = "raditian-free-hugo-theme"
 
 # Plugins
