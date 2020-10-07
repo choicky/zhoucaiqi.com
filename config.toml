@@ -26,33 +26,33 @@ theme = "raditian-free-hugo-theme"
 [menu]
 
   [[menu.header]]
-  name = "About"
+  name = "团队"
   URL = "#about"
   weight = 2
 
-  [[menu.header]]
-  name = "Portfolio"
-  URL = "#portfolio"
-  weight = 3
+#  [[menu.header]]
+#  name = "客户"
+#  URL = "#portfolio"
+#  weight = 3
 
   [[menu.header]]
-  name = "Contact"
+  name = "联系"
   URL = "#contact"
   weight = 4
 
 
   [[menu.footer]]
-  name = "About"
+  name = "团队"
   URL = "#about"
   weight = 2
 
-  [[menu.footer]]
-  name = "Portfolio"
-  URL = "#portfolio"
-  weight = 3
+#  [[menu.footer]]
+#  name = "客户"
+#  URL = "#portfolio"
+#  weight = 3
 
   [[menu.footer]]
-  name = "Contact"
+  name = "联系"
   URL = "#contact"
   weight = 4
 
@@ -64,11 +64,11 @@ theme = "raditian-free-hugo-theme"
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
   [params.logo]
-    text1 = "Andreas"
-    text2 = "Ellure"
+    text1 = "Choicky ZHOU"
+    text2 = ""
 
   [params.footer]
-      copyright = "© Raditian. All rights reserved."
+      copyright = "© Choicky. All rights reserved."
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
