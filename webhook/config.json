@@ -1,0 +1,7 @@
+[
+  {
+    "id": "zhoucaiqi.com",
+    "execute-command": "/var/www/zhoucaiqi.com/webhook/deploy.sh",
+    "command-working-directory": "/var/www/zhoucaiqi.com"
+  }
+]
